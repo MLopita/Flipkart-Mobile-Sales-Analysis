@@ -41,30 +41,10 @@ Power BI was used for data modeling, DAX measures (Average Rating, Avg Discount 
 • Profit gap of up to 40% observed between original and selling prices for certain models.  
 • Brands like POCO and Motorola offered the highest average discounts, reflecting aggressive pricing strategies.  
 
-### Dashboard Preview
-![Flipkart Power BI Dashboard](./83696ae0-4cab-43ff-8f72-1a40658f56c9.png)
-
-### How to Use
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/Flipkart-Mobile-Data-Analysis.git
-   ```
-2. Open the .pbix file in Power BI Desktop  
-3. Explore insights using the interactive filters and visuals  
-
 ### Learning Outcomes  
 • Hands-on experience in data modeling and visualization with Power BI  
 • Understanding of pricing strategy analysis using DAX measures  
 • Improved ability to derive business insights from marketplace data  
 
-### Future Enhancements  
-• Incorporate time-based price trends (historical data)  
-• Add consumer review sentiment analysis  
-• Automate data updates using Power BI Dataflows or Python ETL  
-
 ### Author  
 **Lopita Mishra**  
-Aspiring Business Intelligence Analyst  
-Location: India  
-LinkedIn: [Lopita Mishra](https://www.linkedin.com/in/lopita-mishra)  
-Email: lopitamishra@gmail.com  
